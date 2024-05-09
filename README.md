@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 🌱
+I'm Jiahui WU, a software engineer ~~~
+- I enjoy writing code in C++ and Python;
+- I am interested in CUDA and passionate about using it to write high-performance software, exploring the performance limits of GPU;
+- I am also very interested in AI, especially in LLM and Multimodal Learning, and hope to contribute to the field of AI infrastructure.
+
+My blog: https://www.zhihu.com/people/hai-dao-chuan-shui-shou-chang-5979/posts
+
 
 <!--
 **NgCafai/NgCafai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
